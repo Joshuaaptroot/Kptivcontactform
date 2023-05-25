@@ -38,6 +38,7 @@ pure-eval==0.2.2
 Pygments==2.14.0
 python-dateutil==2.8.2
 python-dotenv==1.0.0
+pywin==305
 pyzmq==25.0.2
 secure-smtplib==0.1.1
 six==1.16.0
